@@ -1,5 +1,7 @@
 <h1>Flex-Box course of Alura</h1>
->Project status: Finalized
+
+> Project status: Finalized
+
 <p>I received this project with only the HTML and CSS elements ready, during the course we were fixing the responsiveness and alignment of the items</p>
 
 <hr>
