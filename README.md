@@ -1,4 +1,10 @@
-Vídeos da sessão vídeos:
+<h1>Flex-Box course of Alura</h1>
+>Project status: Finalized
+<p>I received this project with only the HTML and CSS elements ready, during the course we were fixing the responsiveness and alignment of the items</p>
+
+<hr>
+
+Videos from the Videos session:
 
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
