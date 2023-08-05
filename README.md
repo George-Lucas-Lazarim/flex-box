@@ -4,6 +4,8 @@
 
 <p>I received this project with only the HTML and CSS elements ready, during the course we were fixing the responsiveness and alignment of the items</p>
 
+If you want to take a look at the finished project: [HERE](https://flex-box-psi.vercel.app/)
+
 <hr>
 
 Videos from the Videos session:
